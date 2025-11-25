@@ -1,0 +1,20 @@
+{
+  "prediction_id": "person1_001",
+  "timestamp": "2024-12-10T14:30:00",
+  "input_data": {
+    "gender": "Female",
+    "age": 50,
+    "hypertension": 1,
+    "heart_disease": 1,
+    "smoking_history": "No Info",
+    "bmi": 32.35,
+    "HbA1c_level": 6.23,
+    "blood_glucose_level": 80
+  },
+  "prediction_result": {
+    "diabetes_prediction": 1,
+    "probability": 0.76,
+    "message": "Diabetic",
+    "risk_level": "High"
+  }
+}
